@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Yash Baviskar 👋
 
-<!--
-**yashbaviskar15/yashbaviskar15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+☁️ Aspiring Cloud Engineer
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- AWS
+- Linux
+- Git & GitHub
+- Docker
+- Terraform
+- Bash Scripting
+- Networking
+
+## Certifications
+
+- AWS Cloud Practitioner Essentials
+
+## Current Learning
+
+- AWS Solutions Architecture
+- Kubernetes
+- CI/CD
+- Infrastructure as Code
+
+## Projects
+
+- AWS Static Website Hosting
+- Linux Server Administration
+- Docker Container Deployment
+- Terraform Infrastructure Setup
+
+## Connect
+
+LinkedIn: Your LinkedIn URL
+Portfolio: Your Website URL
