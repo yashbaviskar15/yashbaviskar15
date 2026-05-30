@@ -1,100 +1,87 @@
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════╗
-║         YASH NARESH BAVISKAR  //  CLOUD ENGINEER          ║
-║         Jalgaon, Maharashtra, India  •  @doc-casier15     ║
-╚═══════════════════════════════════════════════════════════╝
-```
+# Hey, I'm Yash 👋
+
+**Cloud Engineering Student** · Learning by building · Jalgaon, Maharashtra 🇮🇳
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/yash-baviskar-2p0205151)
+[![Website](https://img.shields.io/badge/Website-doccasiers.kesug.com-000?style=flat-square&logo=google-chrome&logoColor=white)](https://doccasiers.kesug.com)
+[![Instagram](https://img.shields.io/badge/Instagram-mryash.__-E4405F?style=flat-square&logo=instagram)](https://instagram.com/mryash.__)
 
 </div>
 
 ---
 
-## `$ whoami`
+## About me
 
-```yaml
-name: Yash Naresh Baviskar
-role: Cloud Engineer
-location: Jalgaon, Maharashtra, India
-focus:
-  - Cloud Infrastructure & Architecture
-  - Infrastructure as Code (IaC)
-  - Container Orchestration
-  - CI/CD Automation
-currently_working_on: doccasier.com cloud infrastructure
-open_to: Cloud Engineering roles · DevOps · SRE
+I'm a student on a focused journey into **Cloud Engineering** — learning how to design, build, and automate cloud infrastructure from the ground up. I document everything I learn through hands-on projects so others can follow along.
+
+- 🎯 Goal: Become a Cloud / DevOps Engineer
+- 🌱 Currently learning: AWS fundamentals, Linux, Docker, Terraform
+- 🏗️ Building: [doccasier.com](https://doccasiers.kesug.com) — my first cloud-hosted project
+- 📖 Studying toward: AWS Cloud Practitioner → Solutions Architect Associate
+- 💬 Ask me about: anything you're also learning — let's figure it out together
+
+---
+
+## 🗺️ My cloud learning roadmap
+
+```
+Phase 1 — Foundations          ████████░░  In progress
+  ✅ Git & GitHub
+  ✅ Linux basics
+  🔄 AWS Core Services (EC2, S3, VPC, IAM)
+  🔄 Networking fundamentals
+
+Phase 2 — IaC & Containers     ░░░░░░░░░░  Up next
+  ⬜ Docker & Docker Compose
+  ⬜ Terraform basics
+  ⬜ Kubernetes fundamentals
+
+Phase 3 — DevOps Practices     ░░░░░░░░░░  Planned
+  ⬜ CI/CD with GitHub Actions
+  ⬜ Monitoring with Prometheus + Grafana
+  ⬜ ArgoCD & GitOps
+
+Phase 4 — Certifications       ░░░░░░░░░░  Planned
+  ⬜ AWS Cloud Practitioner (CLF-C02)
+  ⬜ AWS Solutions Architect Associate (SAA-C03)
+  ⬜ HashiCorp Terraform Associate
 ```
 
 ---
 
-## `$ cat tech-stack.yaml`
+## 🛠️ Skills I'm building
 
-```yaml
-cloud_platforms:
-  - AWS       # EC2, S3, RDS, VPC, IAM, Lambda, ECS, CloudWatch
-  - GCP       # Compute Engine, GKE, Cloud Run, Cloud Storage
-
-infrastructure_as_code:
-  - Terraform   # Modules, state management, workspaces
-  - Ansible     # Configuration management, playbooks
-
-containers_and_orchestration:
-  - Docker      # Multi-stage builds, Compose
-  - Kubernetes  # Deployments, Services, HPA, Ingress, Helm
-  - Helm        # Chart authoring and deployment
-
-ci_cd:
-  - GitHub Actions
-  - Jenkins
-  - ArgoCD
-
-monitoring_and_observability:
-  - Prometheus
-  - Grafana
-  - AWS CloudWatch
-
-operating_systems:
-  - Linux (Ubuntu, Amazon Linux, CentOS)
-
-scripting:
-  - Bash
-  - Python
-  - YAML / HCL
-```
-
----
-
-## `$ ls -la projects/`
-
-| Repository | Description | Stack |
+| Category | Currently learning | Want to learn next |
 |---|---|---|
-| 🏗 [terraform-aws-infra](https://github.com/yashbaviskar15) | 3-tier AWS architecture with VPC, EC2, RDS, S3 | Terraform · AWS |
-| ☸️ [k8s-microservices-demo](https://github.com/yashbaviskar15) | Microservices on Kubernetes with Helm & HPA | Kubernetes · Docker · Helm |
-| ⚙️ [ci-cd-github-actions](https://github.com/yashbaviskar15) | Full CI/CD pipeline deploying to AWS ECS | GitHub Actions · AWS ECS |
-| 📊 [cloud-monitoring-stack](https://github.com/yashbaviskar15) | Prometheus + Grafana dashboards as code | Prometheus · Grafana |
-| 🌐 [doccasier.com](https://github.com/yashbaviskar15/doccasier.com) | Production site — cloud-hosted, auto-deployed | AWS · GitHub Actions |
+| ☁️ Cloud | AWS (EC2, S3, IAM, VPC) | GCP, Azure basics |
+| 🐧 OS | Linux (Ubuntu) | Amazon Linux, CentOS |
+| 📦 Containers | Docker basics | Kubernetes, Helm |
+| 🏗️ IaC | — | Terraform, Ansible |
+| ⚙️ CI/CD | GitHub Actions (basics) | Jenkins, ArgoCD |
+| 💻 Scripting | Bash, HTML | Python, HCL |
 
 ---
 
-## `$ cat certifications.txt`
+## 📁 Projects
 
-```
-[ ] AWS Certified Solutions Architect – Associate      → In progress
-[ ] AWS Certified Cloud Practitioner                   → Planned
-[ ] HashiCorp Certified: Terraform Associate           → Planned
-[ ] Certified Kubernetes Administrator (CKA)           → Planned
-```
+| Project | What I learned | Status |
+|---|---|---|
+| 🌐 [doccasier.com](https://github.com/yashbaviskar15/doccasier.com) | Hosting a real site, HTML, deployment | ✅ Live |
+| ☕ [forage-midas](https://github.com/yashbaviskar15/forage-midas) | JPMC Advanced Software Engineering program | ✅ Complete |
+| 🔜 terraform-aws-infra | VPC + EC2 + S3 with Terraform | 🔄 Building |
+| 🔜 docker-practice-labs | Containerizing apps from scratch | ⬜ Planned |
 
-> ✅ Update this section as you earn certs — it's one of the strongest trust signals on a cloud profile.
+> I add new projects as I complete each phase of my roadmap. Star ⭐ this profile to follow along.
 
 ---
 
-## `$ uptime`  *(GitHub Stats)*
+## 📊 GitHub activity
 
 <div align="center">
 
-![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashbaviskar15&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
+![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashbaviskar15&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashbaviskar15&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
 
@@ -102,19 +89,23 @@ scripting:
 
 ---
 
-## `$ ping me`
+## 📬 Let's connect
+
+I'm always happy to connect with other learners, cloud professionals, or anyone building something cool.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-yash--baviskar--2p0205151-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/yash-baviskar-2p0205151)
-[![Website](https://img.shields.io/badge/Website-doccasiers.kesug.com-0d1117?style=flat-square&logo=google-chrome&logoColor=white)](https://doccasiers.kesug.com)
-[![Instagram](https://img.shields.io/badge/Instagram-mryash.__-E4405F?style=flat-square&logo=instagram)](https://instagram.com/mryash.__)
-[![GitHub](https://img.shields.io/badge/GitHub-yashbaviskar15-181717?style=flat-square&logo=github)](https://github.com/yashbaviskar15)
+| Platform | Link |
+|---|---|
+| 💼 LinkedIn | [yash-baviskar-2p0205151](https://linkedin.com/in/yash-baviskar-2p0205151) |
+| 🌐 Website | [doccasiers.kesug.com](https://doccasiers.kesug.com) |
+| 📸 Instagram | [@mryash.__](https://instagram.com/mryash.__) |
+| 🐙 GitHub | [@yashbaviskar15](https://github.com/yashbaviskar15) |
 
 </div>
 
 ---
 
 <div align="center">
-  <sub>☁️ Infrastructure is code. Code is infrastructure. — Building things that scale.</sub>
+  <sub>🌱 Learning in public · One cloud concept at a time</sub>
 </div>
