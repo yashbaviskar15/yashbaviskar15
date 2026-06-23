@@ -1,14 +1,17 @@
 <div align="center">
 
-# Yash Baviskar
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=120&section=header&text=Yash%20Baviskar&fontSize=36&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
-**Cloud Engineering Student** · Jalgaon, Maharashtra 🇮🇳
+### Cloud Engineering Student · Jalgaon, Maharashtra 🇮🇳
 
-Learning how to design, build, and automate cloud infrastructure — one project at a time.
+*Learning to design, build, and automate cloud infrastructure — one project at a time.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/yash-baviskar-2p0205151)
-[![Instagram](https://img.shields.io/badge/Instagram-@mryash.__-E4405F?style=flat-square&logo=instagram)](https://instagram.com/mryash.__)
-[![GitHub](https://img.shields.io/badge/GitHub-@yashbaviskar15-181717?style=flat-square&logo=github)](https://github.com/yashbaviskar15)
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-baviskar-2p0205151)
+[![Instagram](https://img.shields.io/badge/Instagram-@mryash.__-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/mryash.__)
+[![GitHub followers](https://img.shields.io/github/followers/yashbaviskar15?label=Follow&style=flat-square&logo=github&logoColor=white&color=181717)](https://github.com/yashbaviskar15)
+[![Profile views](https://komarev.com/ghpvc/?username=yashbaviskar15&style=flat-square&color=1f6feb&label=Profile+views)](https://github.com/yashbaviskar15)
 
 </div>
 
@@ -16,64 +19,99 @@ Learning how to design, build, and automate cloud infrastructure — one project
 
 ## About me
 
-I'm a student focused on becoming a **Cloud / DevOps Engineer**. I learn by building real things, documenting what I pick up along the way, and sharing it publicly so others can follow the same path.
+I'm a student on a focused journey into **Cloud / DevOps Engineering**. I learn by building real things, documenting what I pick up along the way, and sharing it publicly so others can follow the same path.
 
-- 🎯 **Goal:** Cloud / DevOps Engineer
-- 🌱 **Currently learning:** AWS core services, Linux, Docker, Terraform
-- 📖 **Certification path:** AWS Cloud Practitioner → Solutions Architect Associate
-- 💬 **Ask me about:** anything you're also figuring out — let's learn together
+| | |
+|---|---|
+| 🎯 **Goal** | Cloud / DevOps Engineer |
+| 🌱 **Learning** | AWS core services · Linux · Docker · Terraform |
+| 📖 **Cert path** | AWS CLF-C02 → SAA-C03 → HashiCorp Terraform Associate |
+| 💬 **Ask me about** | Anything you're also figuring out — let's learn together |
 
 ---
 
 ## 🗺️ Learning roadmap
 
-```
-Phase 1 — Foundations          ████████░░  In progress
-  ✅ Git & GitHub
-  ✅ Linux basics
-  🔄 AWS Core Services (EC2, S3, VPC, IAM)
-  🔄 Networking fundamentals
+<table>
+<tr>
+<td width="50%">
 
-Phase 2 — IaC & Containers     ░░░░░░░░░░  Up next
-  ⬜ Docker & Docker Compose
-  ⬜ Terraform basics
-  ⬜ Kubernetes fundamentals
+**Phase 1 — Foundations** &nbsp; ![Progress](https://img.shields.io/badge/progress-70%25-1f6feb?style=flat-square)
 
-Phase 3 — DevOps Practices     ░░░░░░░░░░  Planned
-  ⬜ CI/CD with GitHub Actions
-  ⬜ Monitoring with Prometheus + Grafana
-  ⬜ ArgoCD & GitOps
+`✅` Git & GitHub  
+`✅` Linux basics  
+`🔄` AWS Core Services (EC2, S3, VPC, IAM)  
+`🔄` Networking fundamentals  
 
-Phase 4 — Certifications       ░░░░░░░░░░  Planned
-  ⬜ AWS Cloud Practitioner (CLF-C02)
-  ⬜ AWS Solutions Architect Associate (SAA-C03)
-  ⬜ HashiCorp Terraform Associate
-```
+</td>
+<td width="50%">
+
+**Phase 2 — IaC & Containers** &nbsp; ![Status](https://img.shields.io/badge/status-up%20next-8957e5?style=flat-square)
+
+`⬜` Docker & Docker Compose  
+`⬜` Terraform basics  
+`⬜` Kubernetes fundamentals  
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**Phase 3 — DevOps Practices** &nbsp; ![Status](https://img.shields.io/badge/status-planned-6e7681?style=flat-square)
+
+`⬜` CI/CD with GitHub Actions  
+`⬜` Monitoring · Prometheus + Grafana  
+`⬜` ArgoCD & GitOps  
+
+</td>
+<td width="50%">
+
+**Phase 4 — Certifications** &nbsp; ![Status](https://img.shields.io/badge/status-planned-6e7681?style=flat-square)
+
+`⬜` AWS Cloud Practitioner (CLF-C02)  
+`⬜` AWS Solutions Architect Associate (SAA-C03)  
+`⬜` HashiCorp Terraform Associate  
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech stack
 
-| Category | Learning now | Up next |
-|---|---|---|
-| ☁️ Cloud | AWS (EC2, S3, IAM, VPC) | GCP, Azure basics |
-| 🐧 OS | Linux (Ubuntu) | Amazon Linux, CentOS |
-| 📦 Containers | Docker basics | Kubernetes, Helm |
-| 🏗️ IaC | — | Terraform, Ansible |
-| ⚙️ CI/CD | GitHub Actions (basics) | Jenkins, ArgoCD |
-| 💻 Scripting | Bash, HTML | Python, HCL |
+**Cloud & Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-DD344C?style=flat-square&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+
+**Containers & DevOps**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+**OS & Scripting**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
 
 ## 📁 Projects
 
-| Project | What I built / learned | Status |
-|---|---|---|
-| ☕ [forage-midas](https://github.com/yashbaviskar15/forage-midas) | JPMC Advanced Software Engineering virtual program | ✅ Complete |
-| 🔜 [terraform-aws-infra](https://github.com/yashbaviskar15) | VPC + EC2 + S3 provisioned with Terraform | 🔄 Building |
-| 🔜 docker-practice-labs | Containerizing apps from scratch | ⬜ Planned |
+| Project | Description | Status |
+|---|---|:---:|
+| ☕ [**forage-midas**](https://github.com/yashbaviskar15/forage-midas) | JPMC Advanced Software Engineering virtual program | ![Complete](https://img.shields.io/badge/-Complete-238636?style=flat-square) |
+| 🏗️ **terraform-aws-infra** | VPC + EC2 + S3 provisioned with Terraform | ![Building](https://img.shields.io/badge/-Building-1f6feb?style=flat-square) |
+| 📦 **docker-practice-labs** | Containerizing apps from scratch | ![Planned](https://img.shields.io/badge/-Planned-6e7681?style=flat-square) |
 
-> I add projects as I complete each phase. ⭐ Star this profile to follow along.
+> I add projects as I complete each phase of my roadmap. ⭐ Star this profile to follow along.
 
 ---
 
@@ -81,13 +119,22 @@ Phase 4 — Certifications       ░░░░░░░░░░  Planned
 
 <div align="center">
 
-![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashbaviskar15&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashbaviskar15&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=yashbaviskar15&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" />
+&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashbaviskar15&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+
+<br><br>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=yashbaviskar15&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)](https://github.com/yashbaviskar15)
 
 </div>
 
 ---
 
 <div align="center">
-  <sub>🌱 Learning in public · One cloud concept at a time</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=80&section=footer" width="100%"/>
+
+*🌱 Learning in public · One cloud concept at a time*
+
 </div>
