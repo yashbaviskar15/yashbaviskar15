@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1f6feb&height=110&section=header&text=Yash%20Baviskar&fontSize=34&fontColor=ffffff&fontAlignY=55&desc=Cloud%20%2F%20DevOps%20Engineering&descAlignY=78&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1f6feb&height=110&section=header&text=Yash%20Baviskar&fontSize=34&fontColor=ffffff&fontAlignY=55&desc=Fresher%20%7C%20Aspiring%20Cloud%20%2F%20DevOps%20Engineer&descAlignY=78&descSize=15" width="100%"/>
 
 <br>
 
-**Cloud Engineering Student** · Jalgaon, Maharashtra, India
+**Fresher · Aspiring Cloud / DevOps Engineer** · Jalgaon, Maharashtra, India
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-baviskar-2p0205151)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yashbaviskar15)
@@ -18,13 +18,12 @@
 
 ## About
 
-I'm learning Cloud / DevOps Engineering by building real projects and sharing what I learn along the way. Right now I'm focused on AWS, Docker (packaging apps so they run the same anywhere), and Terraform (managing cloud infrastructure with code).
+I'm a fresher (recent graduate) looking for my first opportunity in Cloud / DevOps Engineering. I've been learning by building real projects and sharing what I learn along the way. Right now I'm focused on AWS, Docker (packaging apps so they run the same anywhere), and Terraform (managing cloud infrastructure with code).
 
 | | |
 |---|---|
 | **Focus** | AWS · Linux · Docker · Terraform |
-| **Working toward** | AWS CLF-C02 (entry-level cloud cert) → SAA-C03 → HashiCorp Terraform Associate |
-| **Open to** | Internship and entry-level Cloud / DevOps roles |
+| **Looking for** | Fresher / entry-level Cloud, DevOps, or Infrastructure roles |
 
 <br>
 
@@ -124,7 +123,6 @@ Planned — AWS Cloud Practitioner (CLF-C02), AWS Solutions Architect Associate 
 | Project | Description | Status |
 |---|---|:---:|
 | [**cicd-pipeline**](https://github.com/yashbaviskar15/cicd-pipeline) | CI/CD pipeline that auto-builds, tests, and deploys an app to AWS using Docker, GitHub Actions, and Terraform | ![Complete](https://img.shields.io/badge/-Complete-238636?style=flat-square) |
-| [**forage-midas**](https://github.com/yashbaviskar15/forage-midas) | JPMC Advanced Software Engineering virtual program | ![Complete](https://img.shields.io/badge/-Complete-238636?style=flat-square) |
 | **terraform-aws-infra** | VPC, EC2, and S3 provisioned with Terraform | ![In Progress](https://img.shields.io/badge/-In%20Progress-1f6feb?style=flat-square) |
 | **docker-practice-labs** | Containerizing applications from scratch | ![Planned](https://img.shields.io/badge/-Planned-6e7681?style=flat-square) |
 
