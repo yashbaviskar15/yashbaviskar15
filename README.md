@@ -23,7 +23,6 @@ I'm building toward a career in **Cloud / DevOps Engineering** by shipping real 
 | | |
 |---|---|
 | **Focus** | AWS · Linux · Docker · Terraform |
-| **Certification path** | AWS CLF-C02 → SAA-C03 → HashiCorp Terraform Associate |
 | **Open to** | Internship and entry-level Cloud / DevOps roles |
 
 <br>
