@@ -46,10 +46,10 @@ I'm a student on a focused journey into **Cloud / DevOps Engineering**. I learn 
 </td>
 <td width="50%">
 
-**Phase 2 — IaC & Containers** &nbsp; ![Status](https://img.shields.io/badge/status-up%20next-8957e5?style=flat-square)
+**Phase 2 — IaC & Containers** &nbsp; ![Progress](https://img.shields.io/badge/progress-65%25-1f6feb?style=flat-square)
 
-`Planned` Docker & Docker Compose
-`Planned` Terraform basics
+`Done` Docker & Docker Compose
+`Done` Terraform basics
 `Planned` Kubernetes fundamentals
 
 </td>
@@ -57,9 +57,9 @@ I'm a student on a focused journey into **Cloud / DevOps Engineering**. I learn 
 <tr>
 <td width="50%">
 
-**Phase 3 — DevOps Practices** &nbsp; ![Status](https://img.shields.io/badge/status-planned-6e7681?style=flat-square)
+**Phase 3 — DevOps Practices** &nbsp; ![Progress](https://img.shields.io/badge/progress-35%25-1f6feb?style=flat-square)
 
-`Planned` CI/CD with GitHub Actions
+`Done` CI/CD with GitHub Actions
 `Planned` Monitoring · Prometheus + Grafana
 `Planned` ArgoCD & GitOps
 
@@ -107,6 +107,7 @@ I'm a student on a focused journey into **Cloud / DevOps Engineering**. I learn 
 
 | Project | Description | Status |
 |---|---|:---:|
+| [**cicd-pipeline**](https://github.com/yashbaviskar15/cicd-pipeline) | Production-style CI/CD pipeline — Docker, GitHub Actions, Terraform IaC, Amazon ECR/ECS Fargate, blue/green deployments via AWS CodeDeploy & CodePipeline, CloudWatch monitoring | ![Complete](https://img.shields.io/badge/-Complete-238636?style=flat-square) |
 | [**forage-midas**](https://github.com/yashbaviskar15/forage-midas) | JPMC Advanced Software Engineering virtual program | ![Complete](https://img.shields.io/badge/-Complete-238636?style=flat-square) |
 | **terraform-aws-infra** | VPC + EC2 + S3 provisioned with Terraform | ![Building](https://img.shields.io/badge/-Building-1f6feb?style=flat-square) |
 | **docker-practice-labs** | Containerizing apps from scratch | ![Planned](https://img.shields.io/badge/-Planned-6e7681?style=flat-square) |
