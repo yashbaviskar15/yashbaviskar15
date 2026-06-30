@@ -124,7 +124,6 @@ Planned — AWS Cloud Practitioner (CLF-C02), AWS Solutions Architect Associate 
 | Project | Description | Status |
 |---|---|:---:|
 | [**cicd-pipeline**](https://github.com/yashbaviskar15/cicd-pipeline) | CI/CD pipeline with Docker, GitHub Actions, Terraform, and AWS blue/green deployment | ![Complete](https://img.shields.io/badge/-Complete-238636?style=flat-square) |
-| [**forage-midas**](https://github.com/yashbaviskar15/forage-midas) | JPMC Advanced Software Engineering virtual program | ![Complete](https://img.shields.io/badge/-Complete-238636?style=flat-square) |
 | **terraform-aws-infra** | VPC, EC2, and S3 provisioned with Terraform | ![In Progress](https://img.shields.io/badge/-In%20Progress-1f6feb?style=flat-square) |
 | **docker-practice-labs** | Containerizing applications from scratch | ![Planned](https://img.shields.io/badge/-Planned-6e7681?style=flat-square) |
 
