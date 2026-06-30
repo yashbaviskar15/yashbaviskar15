@@ -18,11 +18,12 @@
 
 ## About
 
-I'm building toward a career in **Cloud / DevOps Engineering** by shipping real infrastructure projects and documenting the process publicly. My focus right now is on AWS, containerization, and infrastructure as code.
+I'm learning Cloud / DevOps Engineering by building real projects and sharing what I learn along the way. Right now I'm focused on AWS, Docker (packaging apps so they run the same anywhere), and Terraform (managing cloud infrastructure with code).
 
 | | |
 |---|---|
 | **Focus** | AWS · Linux · Docker · Terraform |
+| **Working toward** | AWS CLF-C02 (entry-level cloud cert) → SAA-C03 → HashiCorp Terraform Associate |
 | **Open to** | Internship and entry-level Cloud / DevOps roles |
 
 <br>
@@ -35,7 +36,7 @@ I'm building toward a career in **Cloud / DevOps Engineering** by shipping real 
 
 ### [cicd-pipeline](https://github.com/yashbaviskar15/cicd-pipeline)
 
-A production-style CI/CD pipeline built end to end: Docker containers, automated testing, and GitHub Actions CI feeding into a blue/green deployment on Amazon ECS Fargate via AWS CodePipeline and CodeDeploy. Infrastructure is fully defined in Terraform, with CloudWatch handling monitoring and rollback triggers.
+A production-style CI/CD pipeline built end to end: Docker containers package the app, automated tests run on every push, and GitHub Actions (a CI tool that runs your tests/builds automatically) feeds into a blue/green deployment (a way to release new versions with zero downtime by switching traffic between two environments) on Amazon ECS Fargate. AWS CodePipeline and CodeDeploy handle the release steps automatically, infrastructure is fully defined in Terraform (writes your cloud setup as code instead of clicking around in the AWS console), and CloudWatch (AWS's monitoring tool) watches the app and can trigger a rollback if something breaks.
 
 `Docker` `GitHub Actions` `Terraform` `Amazon ECR/ECS` `CodeDeploy` `CloudWatch`
 
@@ -101,15 +102,15 @@ A production-style CI/CD pipeline built end to end: Docker containers, automated
 
 **Foundations**
 Done — Git & GitHub, Linux basics
-In progress — AWS core services (EC2, S3, VPC, IAM), networking fundamentals
+In progress — AWS core services (EC2 for servers, S3 for storage, VPC for networking, IAM for access control), networking fundamentals
 
 **Infrastructure & Containers**
 Done — Docker & Docker Compose, Terraform basics
-Planned — Kubernetes fundamentals
+Planned — Kubernetes (manages many containers at once)
 
 **DevOps Practices**
-Done — CI/CD with GitHub Actions
-Planned — Monitoring (Prometheus + Grafana), ArgoCD & GitOps
+Done — CI/CD with GitHub Actions (automatically testing and deploying code)
+Planned — Monitoring with Prometheus + Grafana (tools that track app health), ArgoCD & GitOps (deploying by syncing with Git)
 
 **Certifications**
 Planned — AWS Cloud Practitioner (CLF-C02), AWS Solutions Architect Associate (SAA-C03), HashiCorp Terraform Associate
@@ -122,7 +123,8 @@ Planned — AWS Cloud Practitioner (CLF-C02), AWS Solutions Architect Associate 
 
 | Project | Description | Status |
 |---|---|:---:|
-| [**cicd-pipeline**](https://github.com/yashbaviskar15/cicd-pipeline) | CI/CD pipeline with Docker, GitHub Actions, Terraform, and AWS blue/green deployment | ![Complete](https://img.shields.io/badge/-Complete-238636?style=flat-square) |
+| [**cicd-pipeline**](https://github.com/yashbaviskar15/cicd-pipeline) | CI/CD pipeline that auto-builds, tests, and deploys an app to AWS using Docker, GitHub Actions, and Terraform | ![Complete](https://img.shields.io/badge/-Complete-238636?style=flat-square) |
+| [**forage-midas**](https://github.com/yashbaviskar15/forage-midas) | JPMC Advanced Software Engineering virtual program | ![Complete](https://img.shields.io/badge/-Complete-238636?style=flat-square) |
 | **terraform-aws-infra** | VPC, EC2, and S3 provisioned with Terraform | ![In Progress](https://img.shields.io/badge/-In%20Progress-1f6feb?style=flat-square) |
 | **docker-practice-labs** | Containerizing applications from scratch | ![Planned](https://img.shields.io/badge/-Planned-6e7681?style=flat-square) |
 
