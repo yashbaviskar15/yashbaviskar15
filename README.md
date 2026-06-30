@@ -2,14 +2,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=120&section=header&text=Yash%20Baviskar&fontSize=36&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
-### Cloud Engineering Student · Jalgaon, Maharashtra 🇮🇳
+### Cloud Engineering Student · Jalgaon, Maharashtra, India
 
 *Learning to design, build, and automate cloud infrastructure — one project at a time.*
 
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-baviskar-2p0205151)
-[![Instagram](https://img.shields.io/badge/Instagram-@mryash.__-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/mryash.__)
+[![Instagram](https://img.shields.io/badge/Instagram-mryash.__-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/mryash.__)
 [![GitHub followers](https://img.shields.io/github/followers/yashbaviskar15?label=Follow&style=flat-square&logo=github&logoColor=white&color=181717)](https://github.com/yashbaviskar15)
 [![Profile views](https://komarev.com/ghpvc/?username=yashbaviskar15&style=flat-square&color=1f6feb&label=Profile+views)](https://github.com/yashbaviskar15)
 
@@ -17,20 +17,20 @@
 
 ---
 
-## About me
+## About Me
 
 I'm a student on a focused journey into **Cloud / DevOps Engineering**. I learn by building real things, documenting what I pick up along the way, and sharing it publicly so others can follow the same path.
 
 | | |
 |---|---|
-| 🎯 **Goal** | Cloud / DevOps Engineer |
-| 🌱 **Learning** | AWS core services · Linux · Docker · Terraform |
-| 📖 **Cert path** | AWS CLF-C02 → SAA-C03 → HashiCorp Terraform Associate |
-| 💬 **Ask me about** | Anything you're also figuring out — let's learn together |
+| **Goal** | Cloud / DevOps Engineer |
+| **Currently Learning** | AWS core services · Linux · Docker · Terraform |
+| **Certification Path** | AWS CLF-C02 → SAA-C03 → HashiCorp Terraform Associate |
+| **Ask Me About** | Anything you're also figuring out — let's learn together |
 
 ---
 
-## 🗺️ Learning roadmap
+## Learning Roadmap
 
 <table>
 <tr>
@@ -38,19 +38,19 @@ I'm a student on a focused journey into **Cloud / DevOps Engineering**. I learn 
 
 **Phase 1 — Foundations** &nbsp; ![Progress](https://img.shields.io/badge/progress-70%25-1f6feb?style=flat-square)
 
-`✅` Git & GitHub  
-`✅` Linux basics  
-`🔄` AWS Core Services (EC2, S3, VPC, IAM)  
-`🔄` Networking fundamentals  
+`Done` Git & GitHub
+`Done` Linux basics
+`In Progress` AWS Core Services (EC2, S3, VPC, IAM)
+`In Progress` Networking fundamentals
 
 </td>
 <td width="50%">
 
 **Phase 2 — IaC & Containers** &nbsp; ![Status](https://img.shields.io/badge/status-up%20next-8957e5?style=flat-square)
 
-`⬜` Docker & Docker Compose  
-`⬜` Terraform basics  
-`⬜` Kubernetes fundamentals  
+`Planned` Docker & Docker Compose
+`Planned` Terraform basics
+`Planned` Kubernetes fundamentals
 
 </td>
 </tr>
@@ -59,18 +59,18 @@ I'm a student on a focused journey into **Cloud / DevOps Engineering**. I learn 
 
 **Phase 3 — DevOps Practices** &nbsp; ![Status](https://img.shields.io/badge/status-planned-6e7681?style=flat-square)
 
-`⬜` CI/CD with GitHub Actions  
-`⬜` Monitoring · Prometheus + Grafana  
-`⬜` ArgoCD & GitOps  
+`Planned` CI/CD with GitHub Actions
+`Planned` Monitoring · Prometheus + Grafana
+`Planned` ArgoCD & GitOps
 
 </td>
 <td width="50%">
 
 **Phase 4 — Certifications** &nbsp; ![Status](https://img.shields.io/badge/status-planned-6e7681?style=flat-square)
 
-`⬜` AWS Cloud Practitioner (CLF-C02)  
-`⬜` AWS Solutions Architect Associate (SAA-C03)  
-`⬜` HashiCorp Terraform Associate  
+`Planned` AWS Cloud Practitioner (CLF-C02)
+`Planned` AWS Solutions Architect Associate (SAA-C03)
+`Planned` HashiCorp Terraform Associate
 
 </td>
 </tr>
@@ -78,7 +78,7 @@ I'm a student on a focused journey into **Cloud / DevOps Engineering**. I learn 
 
 ---
 
-## 🛠️ Tech stack
+## Tech Stack
 
 **Cloud & Infrastructure**
 
@@ -103,19 +103,19 @@ I'm a student on a focused journey into **Cloud / DevOps Engineering**. I learn 
 
 ---
 
-## 📁 Projects
+## Projects
 
 | Project | Description | Status |
 |---|---|:---:|
-| ☕ [**forage-midas**](https://github.com/yashbaviskar15/forage-midas) | JPMC Advanced Software Engineering virtual program | ![Complete](https://img.shields.io/badge/-Complete-238636?style=flat-square) |
-| 🏗️ **terraform-aws-infra** | VPC + EC2 + S3 provisioned with Terraform | ![Building](https://img.shields.io/badge/-Building-1f6feb?style=flat-square) |
-| 📦 **docker-practice-labs** | Containerizing apps from scratch | ![Planned](https://img.shields.io/badge/-Planned-6e7681?style=flat-square) |
+| [**forage-midas**](https://github.com/yashbaviskar15/forage-midas) | JPMC Advanced Software Engineering virtual program | ![Complete](https://img.shields.io/badge/-Complete-238636?style=flat-square) |
+| **terraform-aws-infra** | VPC + EC2 + S3 provisioned with Terraform | ![Building](https://img.shields.io/badge/-Building-1f6feb?style=flat-square) |
+| **docker-practice-labs** | Containerizing apps from scratch | ![Planned](https://img.shields.io/badge/-Planned-6e7681?style=flat-square) |
 
-> I add projects as I complete each phase of my roadmap. ⭐ Star this profile to follow along.
+> New projects are added as each phase of the roadmap is completed. Star this profile to follow along.
 
 ---
 
-## 📊 GitHub stats
+## GitHub Stats
 
 <div align="center">
 
@@ -135,6 +135,6 @@ I'm a student on a focused journey into **Cloud / DevOps Engineering**. I learn 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=80&section=footer" width="100%"/>
 
-*🌱 Learning in public · One cloud concept at a time*
+*Learning in public · One cloud concept at a time*
 
 </div>
