@@ -18,29 +18,51 @@
 
 ## About
 
-BCA graduate building a career in Cloud / DevOps Engineering by shipping real, working infrastructure projects rather than just tutorials. Currently focused on AWS, Docker, and Terraform, with CI/CD and monitoring as the next milestones. Every project below is either live on GitHub with full setup instructions, or clearly marked as in-progress — no exaggerated claims.
+BCA graduate building a career in Cloud / DevOps Engineering by shipping real, working infrastructure projects rather than just tutorials. Three production-style projects are complete and live below — CI/CD automation, monitoring & observability, and Linux server hardening — each with full setup instructions and working code. Currently deepening Kubernetes and working toward AWS certification.
 
 | | |
 |---|---|
-| **Focus** | AWS · Linux · Docker · Terraform |
-| **Currently learning** | Kubernetes · Prometheus & Grafana · CI/CD pipelines |
+| **Focus** | AWS · Linux · Docker · Terraform · CI/CD · Monitoring |
+| **Currently learning** | Kubernetes · GitOps · AWS Certified Cloud Practitioner |
 | **Looking for** | Entry-level Cloud, DevOps, or Infrastructure roles (Remote / Europe) |
 
 <br>
 
-## Featured Project
+## Featured Projects
 
 <table>
 <tr>
 <td>
 
-### [cicd-pipeline](https://github.com/yashbaviskar15/cicd-pipeline)
+### [cicd-pipeline](https://github.com/yashbaviskar15/cicd-pipeline) ✅
 
 An end-to-end CI/CD pipeline: Docker containers package the app, automated tests run on every push via GitHub Actions, and the build is deployed to Amazon ECS Fargate using AWS CodePipeline and CodeDeploy. Infrastructure is defined in Terraform, and CloudWatch monitors the app for rollback triggers.
 
 `Docker` `GitHub Actions` `Terraform` `Amazon ECR/ECS` `CodeDeploy` `CloudWatch`
 
 [![CI Pipeline](https://github.com/yashbaviskar15/cicd-pipeline/actions/workflows/ci.yml/badge.svg)](https://github.com/yashbaviskar15/cicd-pipeline/actions/workflows/ci.yml)
+
+</td>
+</tr>
+<tr>
+<td>
+
+### [monitoring-stack](https://github.com/yashbaviskar15/monitoring-stack) ✅
+
+Monitoring infrastructure provisioned on AWS EC2 with Terraform. Prometheus scrapes metrics across containerised services, Grafana dashboards track CPU, memory, and application-level performance, and Alertmanager handles threshold and downtime alerts. Includes setup guides and runbooks for reproducing the stack across environments.
+
+`Terraform` `Prometheus` `Grafana` `Alertmanager` `AWS EC2` `Docker`
+
+</td>
+</tr>
+<tr>
+<td>
+
+### [linux-hardening-toolkit](https://github.com/yashbaviskar15/linux-hardening-toolkit) ✅
+
+Modular Bash toolkit for automating Ubuntu Server hardening: SSH key-only auth, root login lockdown, UFW deny-by-default firewall rules, Fail2Ban, unattended security patching, systemd-timer health checks, and automated nightly backups with retention-based pruning.
+
+`Bash` `Ubuntu Server` `SSH` `UFW` `Fail2Ban` `Systemd` `Cron`
 
 </td>
 </tr>
@@ -91,9 +113,9 @@ An end-to-end CI/CD pipeline: Docker containers package the app, automated tests
 
 | Phase | Progress | Status |
 |---|---|---|
-| **Foundations** — Git, Linux, AWS core, networking | ![75%](https://img.shields.io/badge/-75%25-1f6feb?style=flat-square) | In progress |
-| **Infrastructure & Containers** — Docker, Terraform, Kubernetes | ![65%](https://img.shields.io/badge/-65%25-1f6feb?style=flat-square) | In progress |
-| **DevOps Practices** — CI/CD, monitoring, GitOps | ![40%](https://img.shields.io/badge/-40%25-1f6feb?style=flat-square) | In progress |
+| **Foundations** — Git, Linux, AWS core, networking | ![80%](https://img.shields.io/badge/-80%25-1f6feb?style=flat-square) | In progress |
+| **Infrastructure & Containers** — Docker, Terraform, Kubernetes | ![70%](https://img.shields.io/badge/-70%25-1f6feb?style=flat-square) | In progress |
+| **DevOps Practices** — CI/CD, monitoring, GitOps | ![75%](https://img.shields.io/badge/-75%25-1f6feb?style=flat-square) | In progress |
 | **Certifications** — CLF-C02, SAA-C03, Terraform Associate | ![Planned](https://img.shields.io/badge/-not%20started-6e7681?style=flat-square) | Planned |
 
 <details>
@@ -101,7 +123,7 @@ An end-to-end CI/CD pipeline: Docker containers package the app, automated tests
 <br>
 
 **Foundations**
-Done — Git & GitHub, Linux basics, AWS core services (EC2, S3, IAM)
+Done — Git & GitHub, Linux basics, AWS core services (EC2, S3, IAM), Linux server hardening
 In progress — VPC networking fundamentals, Route 53, security groups
 
 **Infrastructure & Containers**
@@ -109,8 +131,8 @@ Done — Docker & Docker Compose, Terraform basics (EC2/S3/VPC provisioning)
 In progress — Kubernetes (Minikube)
 
 **DevOps Practices**
-Done — CI/CD with GitHub Actions
-In progress — Monitoring with Prometheus + Grafana
+Done — CI/CD with GitHub Actions, monitoring with Prometheus + Grafana
+In progress — Deepening observability (custom dashboards, alerting rules)
 Planned — ArgoCD & GitOps
 
 **Certifications**
