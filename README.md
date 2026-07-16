@@ -147,8 +147,8 @@ Planned — AWS Cloud Practitioner (CLF-C02) → target: next exam window, AWS S
 | Project | Description | Status |
 |---|---|:---:|
 | [**cicd-pipeline**](https://github.com/yashbaviskar15/cicd-pipeline) | CI/CD pipeline that auto-builds, tests, and deploys an app to AWS using Docker, GitHub Actions, and Terraform | ![Complete](https://img.shields.io/badge/-Complete-238636?style=flat-square) |
-| [**monitoring-stack**](https://github.com/yashbaviskar15/devops-monitoring-stack) | Prometheus + Grafana monitoring on AWS EC2, provisioned with Terraform | ![Planned](https://img.shields.io/badge/-Planned-6e7681?style=flat-square) |
-| [**linux-hardening-toolkit**](https://github.com/yashbaviskar15/cicd-pipeline) | Bash toolkit for Ubuntu server hardening (SSH, UFW, Fail2Ban, backups) | ![Planned](https://img.shields.io/badge/-Planned-6e7681?style=flat-square) |
+| [**monitoring-stack**](https://github.com/yashbaviskar15/devops-monitoring-stack) | Prometheus + Grafana monitoring on AWS EC2, provisioned with Terraform | ![Complete](https://img.shields.io/badge/-Complete-238636?style=flat-square) |
+| [**linux-hardening-toolkit**](https://github.com/yashbaviskar15/linux-hardening-toolkit) | Bash toolkit for Ubuntu server hardening (SSH, UFW, Fail2Ban, backups) | ![Complete](https://img.shields.io/badge/-Complete-238636?style=flat-square) |
 
 <sub>Status badges are kept in sync with actual repo content — nothing here is marked "Complete" until it's fully documented and working.</sub>
 
