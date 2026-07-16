@@ -34,7 +34,7 @@ BCA graduate building a career in Cloud / DevOps Engineering by shipping real, w
 <tr>
 <td>
 
-### [cicd-pipeline](https://github.com/yashbaviskar15/cicd-pipeline) ✅
+### [cicd-pipeline](https://github.com/yashbaviskar15/cicd-pipeline) 
 
 An end-to-end CI/CD pipeline: Docker containers package the app, automated tests run on every push via GitHub Actions, and the build is deployed to Amazon ECS Fargate using AWS CodePipeline and CodeDeploy. Infrastructure is defined in Terraform, and CloudWatch monitors the app for rollback triggers.
 
@@ -47,7 +47,7 @@ An end-to-end CI/CD pipeline: Docker containers package the app, automated tests
 <tr>
 <td>
 
-### [monitoring-stack](https://github.com/yashbaviskar15/monitoring-stack) ✅
+### [monitoring-stack](https://github.com/yashbaviskar15/monitoring-stack) 
 
 Monitoring infrastructure provisioned on AWS EC2 with Terraform. Prometheus scrapes metrics across containerised services, Grafana dashboards track CPU, memory, and application-level performance, and Alertmanager handles threshold and downtime alerts. Includes setup guides and runbooks for reproducing the stack across environments.
 
@@ -58,7 +58,7 @@ Monitoring infrastructure provisioned on AWS EC2 with Terraform. Prometheus scra
 <tr>
 <td>
 
-### [linux-hardening-toolkit](https://github.com/yashbaviskar15/linux-hardening-toolkit) ✅
+### [linux-hardening-toolkit](https://github.com/yashbaviskar15/linux-hardening-toolkit) 
 
 Modular Bash toolkit for automating Ubuntu Server hardening: SSH key-only auth, root login lockdown, UFW deny-by-default firewall rules, Fail2Ban, unattended security patching, systemd-timer health checks, and automated nightly backups with retention-based pruning.
 
@@ -147,10 +147,8 @@ Planned — AWS Cloud Practitioner (CLF-C02) → target: next exam window, AWS S
 | Project | Description | Status |
 |---|---|:---:|
 | [**cicd-pipeline**](https://github.com/yashbaviskar15/cicd-pipeline) | CI/CD pipeline that auto-builds, tests, and deploys an app to AWS using Docker, GitHub Actions, and Terraform | ![Complete](https://img.shields.io/badge/-Complete-238636?style=flat-square) |
-| **terraform-aws-infra** | VPC, EC2, and S3 provisioned with Terraform as reusable IaC modules | ![In Progress](https://img.shields.io/badge/-In%20Progress-1f6feb?style=flat-square) |
-| **docker-practice-labs** | Containerizing multi-service applications from scratch | ![Planned](https://img.shields.io/badge/-Planned-6e7681?style=flat-square) |
-| **monitoring-stack** | Prometheus + Grafana monitoring on AWS EC2, provisioned with Terraform | ![Planned](https://img.shields.io/badge/-Planned-6e7681?style=flat-square) |
-| **linux-hardening-toolkit** | Bash toolkit for Ubuntu server hardening (SSH, UFW, Fail2Ban, backups) | ![Planned](https://img.shields.io/badge/-Planned-6e7681?style=flat-square) |
+| [**monitoring-stack**](https://github.com/yashbaviskar15/devops-monitoring-stack) | Prometheus + Grafana monitoring on AWS EC2, provisioned with Terraform | ![Planned](https://img.shields.io/badge/-Planned-6e7681?style=flat-square) |
+| [**linux-hardening-toolkit**](https://github.com/yashbaviskar15/cicd-pipeline) | Bash toolkit for Ubuntu server hardening (SSH, UFW, Fail2Ban, backups) | ![Planned](https://img.shields.io/badge/-Planned-6e7681?style=flat-square) |
 
 <sub>Status badges are kept in sync with actual repo content — nothing here is marked "Complete" until it's fully documented and working.</sub>
 
