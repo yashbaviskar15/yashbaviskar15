@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1f6feb&height=110&section=header&text=Yash%20Baviskar&fontSize=34&fontColor=ffffff&fontAlignY=55&desc=Fresher%20%7C%20Aspiring%20Cloud%20%2F%20DevOps%20Engineer&descAlignY=78&descSize=15" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1f6feb&height=110&section=header&text=Yash%20Baviskar&fontSize=34&fontColor=ffffff&fontAlignY=55&desc=Aspiring%20Cloud%20%2F%20DevOps%20Engineer%20%7C%20AWS%20%C2%B7%20Terraform%20%C2%B7%20Docker&descAlignY=78&descSize=14" width="100%"/>
 
 <br>
 
-**Fresher · Aspiring Cloud / DevOps Engineer** · Jalgaon, Maharashtra, India
+**Aspiring Cloud / DevOps Engineer** · Jalgaon, Maharashtra, India · Open to Remote / Europe
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yashbaviskar15)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yashbaviskar15)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/mryash.__)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yashbaviskar0215@outlook.com)
 &nbsp;&nbsp;
 ![Profile views](https://komarev.com/ghpvc/?username=yashbaviskar15&style=flat-square&color=1f6feb&label=Profile+views)
 
@@ -18,12 +18,13 @@
 
 ## About
 
-I'm a fresher (recent graduate) looking for my first opportunity in Cloud / DevOps Engineering. I've been learning by building real projects and sharing what I learn along the way. Right now I'm focused on AWS, Docker (packaging apps so they run the same anywhere), and Terraform (managing cloud infrastructure with code).
+BCA graduate building a career in Cloud / DevOps Engineering by shipping real, working infrastructure projects rather than just tutorials. Currently focused on AWS, Docker, and Terraform, with CI/CD and monitoring as the next milestones. Every project below is either live on GitHub with full setup instructions, or clearly marked as in-progress — no exaggerated claims.
 
 | | |
 |---|---|
 | **Focus** | AWS · Linux · Docker · Terraform |
-| **Looking for** | Fresher / entry-level Cloud, DevOps, or Infrastructure roles |
+| **Currently learning** | Kubernetes · Prometheus & Grafana · CI/CD pipelines |
+| **Looking for** | Entry-level Cloud, DevOps, or Infrastructure roles (Remote / Europe) |
 
 <br>
 
@@ -35,7 +36,7 @@ I'm a fresher (recent graduate) looking for my first opportunity in Cloud / DevO
 
 ### [cicd-pipeline](https://github.com/yashbaviskar15/cicd-pipeline)
 
-A production-style CI/CD pipeline built end to end: Docker containers package the app, automated tests run on every push, and GitHub Actions (a CI tool that runs your tests/builds automatically) feeds into a blue/green deployment (a way to release new versions with zero downtime by switching traffic between two environments) on Amazon ECS Fargate. AWS CodePipeline and CodeDeploy handle the release steps automatically, infrastructure is fully defined in Terraform (writes your cloud setup as code instead of clicking around in the AWS console), and CloudWatch (AWS's monitoring tool) watches the app and can trigger a rollback if something breaks.
+An end-to-end CI/CD pipeline: Docker containers package the app, automated tests run on every push via GitHub Actions, and the build is deployed to Amazon ECS Fargate using AWS CodePipeline and CodeDeploy. Infrastructure is defined in Terraform, and CloudWatch monitors the app for rollback triggers.
 
 `Docker` `GitHub Actions` `Terraform` `Amazon ECR/ECS` `CodeDeploy` `CloudWatch`
 
@@ -90,9 +91,9 @@ A production-style CI/CD pipeline built end to end: Docker containers package th
 
 | Phase | Progress | Status |
 |---|---|---|
-| **Foundations** — Git, Linux, AWS core, networking | ![70%](https://img.shields.io/badge/-70%25-1f6feb?style=flat-square) | In progress |
+| **Foundations** — Git, Linux, AWS core, networking | ![75%](https://img.shields.io/badge/-75%25-1f6feb?style=flat-square) | In progress |
 | **Infrastructure & Containers** — Docker, Terraform, Kubernetes | ![65%](https://img.shields.io/badge/-65%25-1f6feb?style=flat-square) | In progress |
-| **DevOps Practices** — CI/CD, monitoring, GitOps | ![35%](https://img.shields.io/badge/-35%25-1f6feb?style=flat-square) | In progress |
+| **DevOps Practices** — CI/CD, monitoring, GitOps | ![40%](https://img.shields.io/badge/-40%25-1f6feb?style=flat-square) | In progress |
 | **Certifications** — CLF-C02, SAA-C03, Terraform Associate | ![Planned](https://img.shields.io/badge/-not%20started-6e7681?style=flat-square) | Planned |
 
 <details>
@@ -100,19 +101,20 @@ A production-style CI/CD pipeline built end to end: Docker containers package th
 <br>
 
 **Foundations**
-Done — Git & GitHub, Linux basics
-In progress — AWS core services (EC2 for servers, S3 for storage, VPC for networking, IAM for access control), networking fundamentals
+Done — Git & GitHub, Linux basics, AWS core services (EC2, S3, IAM)
+In progress — VPC networking fundamentals, Route 53, security groups
 
 **Infrastructure & Containers**
-Done — Docker & Docker Compose, Terraform basics
-Planned — Kubernetes (manages many containers at once)
+Done — Docker & Docker Compose, Terraform basics (EC2/S3/VPC provisioning)
+In progress — Kubernetes (Minikube)
 
 **DevOps Practices**
-Done — CI/CD with GitHub Actions (automatically testing and deploying code)
-Planned — Monitoring with Prometheus + Grafana (tools that track app health), ArgoCD & GitOps (deploying by syncing with Git)
+Done — CI/CD with GitHub Actions
+In progress — Monitoring with Prometheus + Grafana
+Planned — ArgoCD & GitOps
 
 **Certifications**
-Planned — AWS Cloud Practitioner (CLF-C02), AWS Solutions Architect Associate (SAA-C03), HashiCorp Terraform Associate
+Planned — AWS Cloud Practitioner (CLF-C02) → target: next exam window, AWS Solutions Architect Associate (SAA-C03), HashiCorp Terraform Associate
 
 </details>
 
@@ -123,8 +125,12 @@ Planned — AWS Cloud Practitioner (CLF-C02), AWS Solutions Architect Associate 
 | Project | Description | Status |
 |---|---|:---:|
 | [**cicd-pipeline**](https://github.com/yashbaviskar15/cicd-pipeline) | CI/CD pipeline that auto-builds, tests, and deploys an app to AWS using Docker, GitHub Actions, and Terraform | ![Complete](https://img.shields.io/badge/-Complete-238636?style=flat-square) |
-| **terraform-aws-infra** | VPC, EC2, and S3 provisioned with Terraform | ![In Progress](https://img.shields.io/badge/-In%20Progress-1f6feb?style=flat-square) |
-| **docker-practice-labs** | Containerizing applications from scratch | ![Planned](https://img.shields.io/badge/-Planned-6e7681?style=flat-square) |
+| **terraform-aws-infra** | VPC, EC2, and S3 provisioned with Terraform as reusable IaC modules | ![In Progress](https://img.shields.io/badge/-In%20Progress-1f6feb?style=flat-square) |
+| **docker-practice-labs** | Containerizing multi-service applications from scratch | ![Planned](https://img.shields.io/badge/-Planned-6e7681?style=flat-square) |
+| **monitoring-stack** | Prometheus + Grafana monitoring on AWS EC2, provisioned with Terraform | ![Planned](https://img.shields.io/badge/-Planned-6e7681?style=flat-square) |
+| **linux-hardening-toolkit** | Bash toolkit for Ubuntu server hardening (SSH, UFW, Fail2Ban, backups) | ![Planned](https://img.shields.io/badge/-Planned-6e7681?style=flat-square) |
+
+<sub>Status badges are kept in sync with actual repo content — nothing here is marked "Complete" until it's fully documented and working.</sub>
 
 <br>
 
