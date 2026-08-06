@@ -21,7 +21,6 @@ Junior Cloud Engineer with hands-on experience designing, automating, and deploy
 | | |
 |---|---|
 | **Focus** | AWS · Terraform · Docker · Kubernetes · CI/CD · Monitoring |
-| **Certification** | AWS Cloud Practitioner (CLF-C02) — In Progress |
 | **Availability** | Full-time, 6-month internship from September 2026 · Open to relocation |
 
 <br>
