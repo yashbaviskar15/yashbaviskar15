@@ -11,15 +11,15 @@ rather than just following tutorials.
 
 ## Featured Projects
 
-**[cicd-pipeline](link)** — GitHub Actions pipeline: containerizes a multi-service app, 
+**[cicd-pipeline]( github.com/yashbaviskar15/cicd-pipeline)** — GitHub Actions pipeline: containerizes a multi-service app, 
 pushes to ECR, deploys to Kubernetes with rolling updates.
 `Docker` `GitHub Actions` `Kubernetes` `Amazon ECR/ECS`
 
-**[3-tier-app](link)** — AWS three-tier architecture (VPC, ALB, EC2, RDS) fully defined 
+**[3-tier-app](github.com/yashbaviskar15/3-tier-app)** — AWS three-tier architecture (VPC, ALB, EC2, RDS) fully defined 
 in Terraform — one-command teardown and rebuild.
 `AWS` `Terraform` `VPC` `RDS`
 
-**[cloud-monitoring](link)** — Prometheus + Grafana stack monitoring 10+ containerized 
+**[cloud-monitoring](github.com/yashbaviskar15/cloud-monitoring)** — Prometheus + Grafana stack monitoring 10+ containerized 
 services; cut detection time from 15+ min to under 2 in testing.
 `Prometheus` `Grafana` `Terraform` `AWS EC2`
 
