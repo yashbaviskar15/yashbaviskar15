@@ -5,7 +5,6 @@
 Entry-level Cloud/DevOps Engineer building hands-on infrastructure projects with AWS, Terraform, Docker, Kubernetes, and CI/CD.
 
 **Based in:** Jalgaon, Maharashtra, India  
-**Open to:** Relocation across Germany and the EU  
 **Target roles:** Junior Cloud Engineer, Junior DevOps Engineer, Junior SRE
 
 ---
