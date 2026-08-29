@@ -11,11 +11,11 @@ Cloud and DevOps Engineer with hands-on experience building production-grade inf
 
 ## Projects
 
-### [3-tier-app](https://github.com/yashbaviskar15/3-tier-app) -- AWS Three-Tier Web Application Infrastructure
+### [3-tier-app](https://github.com/yashbaviskar15/3-tier-app) - AWS Three-Tier Web Application Infrastructure
 
 Production-grade AWS three-tier architecture provisioned with 11 reusable Terraform modules. Implements a fully segmented VPC (public, private-app, isolated private-data subnets across 3 AZs), internet-facing ALB with HTTPS termination, Auto Scaling Group with target tracking policies, RDS MySQL Multi-AZ with KMS encryption and Secrets Manager, CloudFront CDN with Origin Access Control, and CloudWatch observability. Includes CI/CD via GitHub Actions with Checkov security scanning. Deploys across dev, staging, and production environments with separate state files and configs.
 
-**Live Demo:** [three-tier-app.vercel.app](https://three-tier-app.vercel.app)
+**Live Demo:** [AWS Three-Tier Web Application Infrastructure](https://three-tier-app.vercel.app)
 
 `AWS` `Terraform` `VPC` `ALB` `Auto Scaling` `RDS Multi-AZ` `CloudFront` `CloudWatch` `IAM` `Secrets Manager` `GitHub Actions` `Node.js` `React` `Docker`
 
@@ -24,6 +24,8 @@ Production-grade AWS three-tier architecture provisioned with 11 reusable Terraf
 ### [cicd-pipeline](https://github.com/yashbaviskar15/cicd-pipeline) -- Production CI/CD Pipeline and Cloud Infrastructure
 
 End-to-end CI/CD pipeline using GitHub Actions for automated build, test, containerization, and deployment. Application is containerized with Docker, images pushed to Amazon ECR, and deployed to a Kubernetes cluster with rolling update strategy for zero-downtime releases. Infrastructure provisioned on AWS with Terraform.
+
+**Live Demo:** [Production CI/CD Pipeline and Cloud Infrastructure](https://cicd-pipeline-frontend.vercel.app/)
 
 `GitHub Actions` `Docker` `Kubernetes` `Amazon ECR` `AWS` `Terraform` `Rolling Updates`
 
