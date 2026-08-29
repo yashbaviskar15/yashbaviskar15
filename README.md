@@ -1,45 +1,77 @@
 # Yash Baviskar
 
-### Cloud / DevOps Engineer | AWS | Terraform | Kubernetes
+### Cloud and DevOps Engineer | AWS | Terraform | Kubernetes | CI/CD
 
-Entry-level Cloud/DevOps Engineer building hands-on infrastructure projects with AWS, Terraform, Docker, Kubernetes, and CI/CD.
+Cloud and DevOps Engineer with hands-on experience building production-grade infrastructure on AWS using Terraform, Docker, Kubernetes, and GitHub Actions. Focused on infrastructure automation, container orchestration, observability, and CI/CD pipelines.
 
-**Based in:** Jalgaon, Maharashtra, India  
-**Target roles:** Junior Cloud Engineer, Junior DevOps Engineer, Junior SRE
+**Location:** Jalgaon, Maharashtra, India
+**Target Roles:** Cloud Engineer, DevOps Engineer, Site Reliability Engineer
 
 ---
 
 ## Projects
 
-**[cicd-pipeline](https://github.com/yashbaviskar15/cicd-pipeline)**  
-CI/CD workflow using GitHub Actions, Docker containerization, deployment to Kubernetes with rolling updates.  
-`GitHub Actions` `Docker` `Kubernetes` `Amazon ECR` `AWS`
+### [3-tier-app](https://github.com/yashbaviskar15/3-tier-app) -- AWS Three-Tier Web Application Infrastructure
 
-**[3-tier-app](https://github.com/yashbaviskar15/3-tier-app)**  
-AWS three-tier architecture with VPC, public/private subnets, ALB, EC2, and RDS, provisioned via Terraform.  
-`AWS` `Terraform` `VPC` `EC2` `ALB` `RDS`
+Production-grade AWS three-tier architecture provisioned with 11 reusable Terraform modules. Implements a fully segmented VPC (public, private-app, isolated private-data subnets across 3 AZs), internet-facing ALB with HTTPS termination, Auto Scaling Group with target tracking policies, RDS MySQL Multi-AZ with KMS encryption and Secrets Manager, CloudFront CDN with Origin Access Control, and CloudWatch observability. Includes CI/CD via GitHub Actions with Checkov security scanning. Deploys across dev, staging, and production environments with separate state files and configs.
 
-**[cloud-monitoring](https://github.com/yashbaviskar15/cloud-monitoring)**  
-Monitoring stack for containerized services using Prometheus, Grafana, and Alertmanager.  
-`Terraform` `Prometheus` `Grafana` `Alertmanager` `Docker`
+**Live Demo:** [three-tier-app.vercel.app](https://three-tier-app.vercel.app)
 
-**[aravanta-cloudos](https://github.com/yashbaviskar15/acos)** *(In Progress)*  
-Self-service cloud provisioning platform with a FastAPI backend and PostgreSQL.  
-`Python` `FastAPI` `PostgreSQL` `Docker` `Terraform`
+`AWS` `Terraform` `VPC` `ALB` `Auto Scaling` `RDS Multi-AZ` `CloudFront` `CloudWatch` `IAM` `Secrets Manager` `GitHub Actions` `Node.js` `React` `Docker`
 
 ---
 
-## Tech Stack
+### [cicd-pipeline](https://github.com/yashbaviskar15/cicd-pipeline) -- Production CI/CD Pipeline and Cloud Infrastructure
 
-**Cloud:** `AWS` `EC2` `S3` `IAM` `VPC` `RDS` `ECR` `ECS` `Route 53` `CloudWatch`  
-**IaC:** `Terraform`  
-**Containers:** `Docker` `Kubernetes` `Minikube` `k3s`  
-**CI/CD:** `GitHub Actions` `AWS CodePipeline`  
-**Monitoring:** `Prometheus` `Grafana` `Alertmanager`  
-**Systems:** `Linux` `Bash` `Python` `Nginx`
+End-to-end CI/CD pipeline using GitHub Actions for automated build, test, containerization, and deployment. Application is containerized with Docker, images pushed to Amazon ECR, and deployed to a Kubernetes cluster with rolling update strategy for zero-downtime releases. Infrastructure provisioned on AWS with Terraform.
+
+`GitHub Actions` `Docker` `Kubernetes` `Amazon ECR` `AWS` `Terraform` `Rolling Updates`
+
+---
+
+### [cloud-monitoring](https://github.com/yashbaviskar15/cloud-monitoring) -- Cloud Monitoring and Observability Stack
+
+Full observability stack for containerized services using Prometheus for metrics collection, Grafana for dashboards and visualization, and Alertmanager for alerting and notification routing. Infrastructure provisioned with Terraform and services deployed via Docker Compose.
+
+`Terraform` `Prometheus` `Grafana` `Alertmanager` `Docker` `Docker Compose` `AWS`
+
+---
+
+### [aravanta-cloudos (acos)](https://github.com/yashbaviskar15/acos) -- Self-Service Cloud Provisioning Platform *(In Progress)*
+
+Self-service cloud infrastructure provisioning platform with a FastAPI backend, PostgreSQL database, and web dashboard. Allows users to request and manage cloud resources through a unified API with approval workflows, RBAC, and audit logging.
+
+`Python` `FastAPI` `PostgreSQL` `Docker` `Terraform` `REST API`
+
+---
+
+## Technical Skills
+
+**Cloud Platforms**
+- AWS: EC2, S3, IAM, VPC, RDS, ALB, Auto Scaling, ECR, ECS, CloudFront, Route 53, CloudWatch, Secrets Manager, ACM, SNS
+
+**Infrastructure as Code**
+- Terraform (modular architecture, remote state with S3/DynamoDB, multi-environment deployments)
+
+**Containers and Orchestration**
+- Docker, Kubernetes, Minikube, k3s, Docker Compose, Amazon ECR
+
+**CI/CD and Automation**
+- GitHub Actions, AWS CodePipeline, Checkov (security scanning)
+
+**Monitoring and Observability**
+- Prometheus, Grafana, Alertmanager, CloudWatch Dashboards and Alarms
+
+**Languages and Scripting**
+- Python, Bash, JavaScript (Node.js, React), HCL (Terraform)
+
+**Operating Systems and Tools**
+- Linux (Ubuntu, Amazon Linux), Nginx, Git
 
 ---
 
 ## Connect
 
-[LinkedIn](https://linkedin.com/in/yashbaviskar15) · [Portfolio](https://yashbaviskar.me) · [GitHub](https://github.com/yashbaviskar15)
+- [LinkedIn](https://linkedin.com/in/yashbaviskar15)
+- [Portfolio](https://yashbaviskar.me)
+- [GitHub](https://github.com/yashbaviskar15)
