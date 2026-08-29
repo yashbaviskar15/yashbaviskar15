@@ -23,7 +23,7 @@ AWS three-tier architecture with VPC, public/private subnets, ALB, EC2, and RDS,
 Monitoring stack for containerized services using Prometheus, Grafana, and Alertmanager.  
 `Terraform` `Prometheus` `Grafana` `Alertmanager` `Docker`
 
-**[aravanta-cloudos](https://github.com/yashbaviskar15/aravanta-cloudos)** *(In Progress)*  
+**[aravanta-cloudos](https://github.com/yashbaviskar15/acos)** *(In Progress)*  
 Self-service cloud provisioning platform with a FastAPI backend and PostgreSQL.  
 `Python` `FastAPI` `PostgreSQL` `Docker` `Terraform`
 
