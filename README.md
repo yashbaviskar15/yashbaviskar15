@@ -21,7 +21,7 @@ Production-grade AWS three-tier architecture provisioned with 11 reusable Terraf
 
 ---
 
-### [cicd-pipeline](https://github.com/yashbaviskar15/cicd-pipeline) -- Production CI/CD Pipeline and Cloud Infrastructure
+### [cicd-pipeline](https://github.com/yashbaviskar15/cicd-pipeline) - Production CI/CD Pipeline and Cloud Infrastructure
 
 End-to-end CI/CD pipeline using GitHub Actions for automated build, test, containerization, and deployment. Application is containerized with Docker, images pushed to Amazon ECR, and deployed to a Kubernetes cluster with rolling update strategy for zero-downtime releases. Infrastructure provisioned on AWS with Terraform.
 
@@ -31,17 +31,21 @@ End-to-end CI/CD pipeline using GitHub Actions for automated build, test, contai
 
 ---
 
-### [cloud-monitoring](https://github.com/yashbaviskar15/cloud-monitoring) -- Cloud Monitoring and Observability Stack
+### [cloud-monitoring](https://github.com/yashbaviskar15/cloud-monitoring) - Cloud Monitoring and Observability Stack
 
 Full observability stack for containerized services using Prometheus for metrics collection, Grafana for dashboards and visualization, and Alertmanager for alerting and notification routing. Infrastructure provisioned with Terraform and services deployed via Docker Compose.
+
+**Live Demo:** [Cloud Monitoring and Observability Stack](https://dev-cloud-monitoring.vercel.app/)
 
 `Terraform` `Prometheus` `Grafana` `Alertmanager` `Docker` `Docker Compose` `AWS`
 
 ---
 
-### [aravanta-cloudos (acos)](https://github.com/yashbaviskar15/acos) -- Self-Service Cloud Provisioning Platform *(In Progress)*
+### [aravanta-cloudos (acos)](https://github.com/yashbaviskar15/acos) - Self-Service Cloud Provisioning Platform 
 
 Self-service cloud infrastructure provisioning platform with a FastAPI backend, PostgreSQL database, and web dashboard. Allows users to request and manage cloud resources through a unified API with approval workflows, RBAC, and audit logging.
+
+**Live Demo:** [Self-Service Cloud Provisioning Platform](https://arv-frontend.vercel.app/)
 
 `Python` `FastAPI` `PostgreSQL` `Docker` `Terraform` `REST API`
 
@@ -77,3 +81,6 @@ Self-service cloud infrastructure provisioning platform with a FastAPI backend, 
 - [LinkedIn](https://linkedin.com/in/yashbaviskar15)
 - [Portfolio](https://yashbaviskar.me)
 - [GitHub](https://github.com/yashbaviskar15)
+- [Instagram](https://instagram.com/mryash.__)
+- [X (Twitter)](https://x.com/yashbaviskar215)
+
